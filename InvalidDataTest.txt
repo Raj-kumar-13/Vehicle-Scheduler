@@ -1,0 +1,8 @@
+Y01 2 Loyang 07:00
+U02 2 ChuaChuKang 07:00
+&03 6 Loyang 07:20
+(04 2 Punggol 07:30
+ 05 2 Loyang 07:10
+""06 6 ChuaChuKang 07:20
+\07 6 Punggol 08:00
+/08 2 ChuaChuKang 07:10
